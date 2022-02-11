@@ -5,4 +5,4 @@
 
 END OF BULLET
 
-![alt text](https://github.com/panospetridisoglou/Website-Pages/blob/main/EnergyHub/energy%20hub.png)
+![alt text](https://raw.githubusercontent.com/panospetridisoglou/Website-Pages/main/EnergyHub/energy%20hub.png)
