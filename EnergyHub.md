@@ -4,6 +4,6 @@
 * bullet1
 
 END OF BULLET
-
-![alt text](https://raw.githubusercontent.com/panospetridisoglou/Website-Pages/main/EnergyHub/energy%20hub.png)
-
+-----------------------------------------------------------------------------------------------------------------------
+| | ![alt text](https://raw.githubusercontent.com/panospetridisoglou/Website-Pages/main/EnergyHub/energy%20hub.png) |      |
+-------------------------------------------------------------------------------------------------------------------
