@@ -5,5 +5,5 @@
 
 END OF BULLET
 -----------------------------------------------------------------------------------------------------------------------
-| | ![alt text](https://raw.githubusercontent.com/panospetridisoglou/Website-Pages/main/EnergyHub/energy%20hub.png) |      |
+| start space | ![alt text](https://raw.githubusercontent.com/panospetridisoglou/Website-Pages/main/EnergyHub/energy%20hub.png) |   end space   |
 -------------------------------------------------------------------------------------------------------------------
